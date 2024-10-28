@@ -152,6 +152,7 @@ body {
     border-radius: 12px; 
     padding: 20px; 
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+    opacity: 90%;
 }
 
 .Top-Tracks {
@@ -182,6 +183,7 @@ body {
     align-items: center;
     gap: 30px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    opacity: 95%;
 }
 
 .new-section-image {
@@ -219,6 +221,7 @@ body {
     color: whitesmoke;
     text-align: center;
     transition: transform 0.3s ease-in-out;
+    opacity: 90%;
 }
 
 .skills-sports-section:hover {
